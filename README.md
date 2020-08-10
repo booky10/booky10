@@ -14,6 +14,12 @@
 
 <br />
 
----
+Github Stats:
 
-<img align="left" alt="booky10 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=booky10&show_icons=true&hide_border=true" />
+<!--<img align="left" alt="booky10 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=booky10&show_icons=true&hide_border=true&hide_title=true" />--!>
+
+[![Stats](https://github-readme-stats.codestackr.vercel.app/api?username=booky10&show_icons=true&hide_border=true&hide_title=true)](https://github.com/booky10/)
+
+Meist verwendete Sprachen:
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=booky10&hide_title=true)](https://github.com/booky10/)
