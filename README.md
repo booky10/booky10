@@ -15,6 +15,6 @@
 
 [![Stats](https://github-readme-stats.codestackr.vercel.app/api?username=booky10&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true)](https://github.com/booky10/)
 
-### Meist verwendete Sprachen:
+### Languages:
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=booky10&hide_title=true)](https://github.com/booky10/)
