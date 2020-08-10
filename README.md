@@ -1,7 +1,7 @@
-### Hi.
+# Hi.
 
 ## I'm a Minecraft Plugin Developer!
-I’m currently working on a plugin.
+- I’m currently working on a plugin.
 
 <br />
 
