@@ -16,16 +16,4 @@
 
 ---
 
-### Latest YouTube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
----
-
-### Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 <img align="left" alt="booky10 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=booky10&show_icons=true&hide_border=true" />
