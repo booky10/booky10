@@ -9,8 +9,6 @@
 [![Bukkit](https://raw.githubusercontent.com/booky10/booky10/master/img/bukkit.png)](https://getbukkit.org/)
 [![SpigotMC](https://raw.githubusercontent.com/booky10/booky10/master/img/spigot.png)](https://spigotmc.org/)
 
----
-
 ### Github Stats:
 
 [![Stats](https://github-readme-stats.codestackr.vercel.app/api?username=booky10&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=f0f6fc&hide_border=true)](https://github.com/booky10/)
